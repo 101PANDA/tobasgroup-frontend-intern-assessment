@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --color-primary: #571244;
+  --color-secondary: #EF4353;
+  --color-mainText: #151515;
+  --color-subdued: #696969;
+  --color-purpleSelection: #8F6182;
+  --color-pending: #1671D9;
+  --color-overlay: #000000B2;
+  --font-nunito: "Nunito", sans-serif;
+  --font-nunito-sans: "Nunito Sans", sans-serif;
+}
+
+body {
+  @apply text-mainText font-nunito-sans;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-nunito;
+}
