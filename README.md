@@ -4,7 +4,7 @@ This is a Next.js and Tailwind CSS implementation of the "Training and Developme
 
 ## Live URL
 
-Live deployment: [Live App URL]()
+Live deployment: [Live App URL](https://tobasgroup-frontend-intern-assessme.vercel.app/)
 
 ## Stack
 
